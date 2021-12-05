@@ -1,4 +1,4 @@
-#Portofolio created by
+# Portofolio created by
 ## Achmad Romadoni
 
-landing page for Bitcoin Mural at [bitcoinmural.io] (bitcoinmural.io)
+landing page for Bitcoin Mural at [bitcoinmural.io](https://bitcoinmural.io)
