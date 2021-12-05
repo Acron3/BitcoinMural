@@ -1,3 +1,4 @@
-<h1>Portofolio created by <b>Achmad Romadoni</b></h1>
-<hr>
+#Portofolio created by
+## Achmad Romadoni
+
 landing page for Bitcoin Mural at [bitcoinmural.io] (bitcoinmural.io)
